@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# Google OAuth Secret & Tokens (보안 파일 절대 커밋 금지)
+credentials.json
+token.json
+scripts/token.json
+scripts/credentials.json
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
