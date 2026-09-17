@@ -62,7 +62,7 @@ Google API 보안 정책상 최초 1회 Google Cloud Console에서 데스크톱 
 이 스킬만 본인의 Antigravity에 설치하고 싶다면 아래 프롬프트를 Antigravity 채팅창에 복사해 넣으세요:
 
 ```markdown
-다음 저장소 경로에 있는 google-workspace-manager 스킬을 내 전역 Antigravity 스킬 경로(C:\Users\<사용자명>\.gemini\antigravity\skills\)에 설치해줘.
+다음 저장소 경로에 있는 google-workspace-manager 스킬을 내 공식 전역 스킬 경로(C:\Users\<사용자명>\.gemini\config\skills\)에 설치해줘.
 1. requirements.txt의 패키지 설치
 2. 스킬 폴더 복사
 3. 초기 세팅(credentials.json 배치 여부 확인 및 1회 인증)을 단계별로 대화형으로 안내해줘.
